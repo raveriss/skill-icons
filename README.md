@@ -27,7 +27,7 @@ make
 Pour utiliser une icône, référencez-la dans votre HTML ou utilisez le système d'importation pour les inclure dans vos projets.
 
 ## Options
-Ce projet fournit des icônes en formats SVG et PNG, optimisées pour le web.
+Ce projet fournit des icônes en formats PNG, optimisées pour le web.
 
 ## Caractéristiques
 Ensemble cohérent d'icônes techniques.
