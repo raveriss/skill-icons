@@ -31,5 +31,5 @@ Ce projet fournit des icônes en formats PNG, optimisées pour le web.
 
 ## Caractéristiques
 Ensemble cohérent d'icônes techniques.
-Disponible en SVG et PNG.
+Disponible en PNG.
 Style moderne et épuré.
