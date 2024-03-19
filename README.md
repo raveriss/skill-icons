@@ -12,6 +12,7 @@ Le projet `skill-icons` est une collection d'icônes représentant différentes 
 | Project       |                    Badge                     |
 | :------------ | :------------------------------------------: |
 | skill-icons   |         ![skill_icon](https://raw.githubusercontent.com/raveriss/skill-icons/main/skill_icon.png)        |
+| microsoft-365 |         ![microsoft_365](https://github.com/raveriss/skill-icons/raw/main/Microsoft_365.png)
 
 
 
