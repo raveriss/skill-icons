@@ -7,11 +7,12 @@
 
 Le projet `skill-icons` est une collection d'icônes représentant différentes compétences techniques, conçue pour les développeurs et les designers souhaitant illustrer leurs compétences sur leurs portfolios ou CV en ligne. Chaque icône est réalisée avec un souci du détail et dans un style cohérent pour assurer une présentation uniforme.
 
-## Tableau des Composants du Projet
+### ⭐ Badges
 
-| Fichier              | Description                                                              | Responsabilité                                | Statut    |
-|----------------------|--------------------------------------------------------------------------|-----------------------------------------------|-----------|
-| `icon_set.c`         | Collection des icônes de compétences                                     | Création et gestion des icônes                | Complet   |
+| Project       |                    Badge                     |
+| :------------ | :------------------------------------------: |
+| skill-icons   |         ![skill_icon](https://raw.githubusercontent.com/raveriss/skill-icons/main/skill_icon.png)        |
+
 
 
 ## Installation et Compilation
