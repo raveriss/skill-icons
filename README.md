@@ -1,7 +1,7 @@
 # Projet skill-icons
 
 <div align="center">
-  ![Badge du projet skill-icons](URL_DE_L'IMAGE_BADGE_SKILL-ICONS)
+  <img src="https://github.com/raveriss/skill-icons/blob/main/skill_icon.png?raw=true" alt="Badge du projet push_swap">
 </div>
 
 ## Description
