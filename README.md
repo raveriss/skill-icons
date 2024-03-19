@@ -1,5 +1,4 @@
 # Projet skill-icons
-
 <div align="center">
   <img src="https://github.com/raveriss/skill-icons/blob/main/skill_icon.png?raw=true" alt="Badge du projet push_swap">
 </div>
