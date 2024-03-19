@@ -11,7 +11,7 @@ Le projet `skill-icons` est une collection d'icônes représentant différentes 
 
 | Project       |                    Badge                     |
 | :------------ | :------------------------------------------: |
-| skill-icons   |         ![skill_icon](https://raw.githubusercontent.com/raveriss/skill-icons/main/skill_icon.png)        |
+| skill icons   |         ![skill_icon](https://raw.githubusercontent.com/raveriss/skill-icons/main/skill_icon.png)        |
 
 
 
